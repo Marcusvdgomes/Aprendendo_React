@@ -1,2 +1,2 @@
-# Aprendendo_React
-Created with CodeSandbox
+# Aprendendo React
+Esta foi a minha primeira interação com a linguagem de programação Front End React
